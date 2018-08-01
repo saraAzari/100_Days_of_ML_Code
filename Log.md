@@ -9,3 +9,4 @@ Day 1 : July 29, 2018
 Today's Progress : I completed more sections on my kaggle course.
 
 Thoughts : The course does a great job explaining concepts, I wish I knew about it earlier. Cannot wait to finish. 
+Day 2: 
