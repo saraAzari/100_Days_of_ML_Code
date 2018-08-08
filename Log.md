@@ -18,6 +18,25 @@ Day 3: July 31, 2018
 Started level 2 on kaggle
 Thoughts: I enjoy the consistency, and learning xx
 
+Day 4 and 5: August 1st and 2nd, 2018
+Worked on the same Kaggle course, faced an struggle...
+
+Day 6: August 3, 2018
+Started the python course on mimo
+Thoughts: My boyfriend purchased mimo for me for a month, so I like to make maximum use of it and make him proud! :)
+
+Day 7: August 6, 2018
+Continued the python course on mimo
+Thoughts: I felt disappointed with myself for skipping the past 2 days, but I also was at an emotional/fed up state and needed a break from life. Still going determined and strong!
+
+Day 8: August 7, 2018
+Back to kaggle course, hopefully I can finish it in a couple of days.
+
+Day 9: August 8, 2018
+Continuing the Kaggle course, and finishing mimo today!
+Thoughts: Tomorrow I will have completed 10% of the challenge...
+
+
 ## Masoud: 
 Day 0: July 28, 2018
  I'm so excited to have started this new challenge on machine learning with my girlfriend.
